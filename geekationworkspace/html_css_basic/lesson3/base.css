@@ -38,3 +38,8 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+img {
+   position: absolute;
+   top: 10px;
+   left: 500px;
+}
